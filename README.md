@@ -4,7 +4,7 @@
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <div align="center">
-  <a href="https://github.com/Theulislee">
+  <a href="https://github.com/juaopauloteo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theulislee&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=outrun"/>
 </div>
@@ -22,7 +22,7 @@
    <div align="center">
      <br>
       
-  ## Curriculum <img src="https://user-images.githubusercontent.com/88908428/148150018-84f67988-9fe2-41b6-b554-21f1e624a317.gif" height="38px" >
+  ## Process <img src="https://user-images.githubusercontent.com/88908428/148150018-84f67988-9fe2-41b6-b554-21f1e624a317.gif" height="38px" >
 
     
 </div>
@@ -41,19 +41,12 @@
  <h3>
 ° Emacs |
 ° GitHub |
-° Git |
+° Python |
     </h3>
- <img align="center" alt="Theulis-Vscode" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
- <img align="center" alt="Theulis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Theulis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Theulis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Theulis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Theulis-GitHub" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img align="center" alt="Theulis-Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Theulis-NodeJs" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Theulis-Angular12" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="Theulis-Bootstrap" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    </div>
+ <img align="center" alt="Theulis-Emacs" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Theulis-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Theulis-Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg)">
+ 
      <br>
   <div align="center">
     
@@ -62,8 +55,7 @@
  </div>
   
 <h3 align="justify">
-  Quando decidi estudar programação de forma automática percebi que foi a melhor escolha que eu fiz na minha vida. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva onde poderemos compartilhar diversos conhecimento e demonstrar os nossos talento!
-  </h3>
+....  </h3>
     
 <div>
   <div align="center">
