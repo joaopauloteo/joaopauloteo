@@ -1,5 +1,5 @@
 <div align="justify">
-  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Matheus, Welcome! </h1>
+  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm João Paulo, Welcome! </h1>
   </div> <h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
@@ -9,17 +9,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 <h3 align="justify">
- Sou estudante autônomo de programação, especialmente em Desenvolvimento Front-End.
-Busco minha primeira oportunidade de trabalhar em uma equipe e adrquirir experiência na área tecnologica, estou sempre buscando a evolução e conhecimento para ser um ótimo profissional.
-  </h3>
+ Olá, sou o João Paulo, tenho 12 anos e estudo programação  </h3>
 <div align="center">
   
    ## My contacts<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
   
   </div>
   <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-magalhaes-311695203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:magalhaescerqueiraesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> 
+<a href = "mailto:joaopauloteo@riseup.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> 
     </div>
  
    <div align="center">
@@ -30,11 +27,10 @@ Busco minha primeira oportunidade de trabalhar em uma equipe e adrquirir experi�
     
 </div>
   <h3 align="justify">
-  Atualmente estudo JavaScripts e TypeScripts do básico ao avançado na Udemy com a finalidade de aumentar meu nível de conhecimento, além de estar estudando também na plataforma da Digital Innovation one.
-    Concluir cursos de Angular 12 (Udemy), Lógica de programação (Digital Innovation one), Git e GitHub (Digital Innovation one), Primeiros passos para desenvolvimento web.
+  Sou um estudante de python pelo curso em vídeo
   <br>
   <br>
-  Em breve começarei os estudos de ReactJs e Node.Js para ampliar o meu conhecimento.
+  Em breve começarei os estudos de C#.
   <br>
   <br>
   </h3>
@@ -43,18 +39,9 @@ Busco minha primeira oportunidade de trabalhar em uma equipe e adrquirir experi�
   
   ## Technology <img src="https://user-images.githubusercontent.com/88908428/148150189-d4f83f7a-2ebb-4e8f-97c9-dc1f715e8aee.gif" height="38px">
  <h3>
-° Vscode |
-° HTML |
-° CSS |
-° SCSS |
-° Node.js |
-° JavaScript |
-° TypeScript |
+° Emacs |
 ° GitHub |
 ° Git |
-° Angular 12 |
-° Angular Material |
-° Bootstrap
     </h3>
  <img align="center" alt="Theulis-Vscode" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Theulis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
