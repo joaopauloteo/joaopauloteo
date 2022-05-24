@@ -44,7 +44,7 @@
 ° GitHub |
 ° Python |
     </h3>
- <img align="center" alt="joaopauloteo-vscodium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="joaopauloteo-vscodium" height="30" width="40" src="https://avatars.githubusercontent.com/u/40338071?s=200&v=4">
  <img align="center" alt="Theulis-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Theulis-Python" height="30" width="40" src="https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg">
  
