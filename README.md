@@ -44,9 +44,9 @@
 ° GitHub |
 ° Python |
     </h3>
- <img align="center" alt="joaopauloteo-vscodium" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="joaopauloteo-vscodium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Theulis-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Theulis-Python" height="30" width="40" img src="https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg">
+   <img align="center" alt="Theulis-Python" height="30" width="40" src="https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg">
  
      <br>
   <div align="center">
@@ -56,7 +56,7 @@
  </div>
   
 <h3 align="justify">
-....  </h3>
+No futuro pretendo arranjar um emprego como desenvolvedor python ou c# e seguir minha vida  </h3>
     
 <div>
   <div align="center">
