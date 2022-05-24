@@ -17,7 +17,7 @@
   
   </div>
   <div align="center">
-<a href = "mailto:joaopauloteo@riseup.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> 
+<a href = "mailto:joaopauloteo@riseup.net"><img src="https://imgs.search.brave.com/MfvmDeILy15TCgXnUyVHxhkLkl4UuZpsOlCqhektYfc/rs:fit:689:174:1/g:ce/aHR0cHM6Ly9yaXNl/dXAubmV0L2Fib3V0/LXVzL2ltYWdlcy9y/aXNldXAubmV0LWlu/bGluZS5zdmc.svg" </a> 
     </div>
  
    <div align="center">
