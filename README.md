@@ -40,9 +40,9 @@
   
   ## Technology <img src="https://user-images.githubusercontent.com/88908428/148150189-d4f83f7a-2ebb-4e8f-97c9-dc1f715e8aee.gif" height="38px">
  <h3>
-° Vscodium |
-° GitHub |
-° Python |
+Vscodium
+Python
+GitHub
     </h3>
  <img align="center" alt="joaopauloteo-vscodium" height="50" width="60" src="https://avatars.githubusercontent.com/u/40338071?s=200&v=4">
  <img align="center" alt="joaopauloteo-python" height="60" width="70" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
