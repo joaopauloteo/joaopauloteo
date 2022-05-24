@@ -44,11 +44,10 @@
 ° GitHub |
 ° Python |
     </h3>
- <img align="center" alt="joaopauloteo-vscodium" height="30" width="40" src="https://avatars.githubusercontent.com/u/40338071?s=200&v=4">
- <img align="center" alt="joaopauloteo-python" height="30" width="40" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
-   <img align="center" alt="joaopauloteo-github" height="30" width="40" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png">
+ <img align="center" alt="joaopauloteo-vscodium" height="50" width="60" src="https://avatars.githubusercontent.com/u/40338071?s=200&v=4">
+ <img align="center" alt="joaopauloteo-python" height="50" width="60" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
+   <img align="center" alt="joaopauloteo-github" height="50" width="60" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png">
  
-     <br>
   <div align="center">
     
   ## About the future <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35px">
