@@ -40,13 +40,13 @@
   
   ## Technology <img src="https://user-images.githubusercontent.com/88908428/148150189-d4f83f7a-2ebb-4e8f-97c9-dc1f715e8aee.gif" height="38px">
  <h3>
-° Emacs |
+° Vscodium |
 ° GitHub |
 ° Python |
     </h3>
- <img align="center" alt="Theulis-Emacs" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="joaopauloteo-vscodium" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Theulis-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Theulis-Python" height="30" width="40" src="https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg">
+   <img align="center" alt="Theulis-Python" height="30" width="40" img src="https://fr.wikipedia.org/wiki/Fichier:Python-logo-notext.svg">
  
      <br>
   <div align="center">
