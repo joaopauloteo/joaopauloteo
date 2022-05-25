@@ -41,13 +41,13 @@
   
   ## Technology <img src="https://user-images.githubusercontent.com/88908428/148150189-d4f83f7a-2ebb-4e8f-97c9-dc1f715e8aee.gif" height="38px">
  <h3>
-Vscodium
-Python
-GitHub
+Vscodium,
+Python and
+Git
     </h3>
  <img align="center" alt="joaopauloteo-vscodium" height="50" width="60" src="https://avatars.githubusercontent.com/u/40338071?s=200&v=4">
  <img align="center" alt="joaopauloteo-python" height="60" width="70" src="https://simpleicons.org/icons/python.svg">
-   <img align="center" alt="joaopauloteo-github" height="50" width="60" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-2.png">
+   <img align="center" alt="joaopauloteo-git" height="50" width="60" src="https://simpleicons.org/icons/git.svg">
  
   <div align="center">
     
