@@ -5,8 +5,8 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <div align="center">
   <a href="https://github.com/juaopauloteo">
-  <img height="160em" src="https://raw.githubusercontent.com/juaopauloteo/github-stats/master/generated/overview.svg#gh-dark-mode-only
-"/>
+  <img height="160em" src="[João Paulo's Stats]"https://raw.githubusercontent.com/juaopauloteo/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+/>
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloteo&layout=compact&langs_count=7&theme=outrun"/>
 </div>
